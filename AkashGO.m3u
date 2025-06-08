@@ -1,0 +1,139 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="122" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png",BTV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-id="119" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906818123.png",AKASH GO Drama 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/e864851a-be2b
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1731/output/index.mpd
+
+#EXTINF:-1 tvg-id="134" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",Deepto TV HD 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-id="97" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",Jamuna TV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-id="115" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png",Sony AATH 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/70f9fa1f-38af
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1732//output/index.mpd
+
+#EXTINF:-1 tvg-id="85" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",Al Jazeera 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/ff28ffed-0cb9
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1707/output/index.mpd
+
+#EXTINF:-1 tvg-id="116" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png",Sony Sports TEN 5 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/2659ffb3-2b08
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1717/output/index.mpd
+
+#EXTINF:-1 tvg-id="118" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906901952.png",Sony Sports TEN 1 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/35fee7f3-d55d
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1719/output/index.mpd
+
+#EXTINF:-1 tvg-id="74" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/8f95c9cd-6940
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1714/output/index.mpd
+
+#EXTINF:-1 tvg-id="93" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",ATN News 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-id="100" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png",Bangla Vision 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-id="94" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",Channel 24 HD 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-id="80" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735050221313.png",Cineplex HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/e7eb2b46-bc76
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1730/output/index.mpd
+
+#EXTINF:-1 tvg-id="76" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964774807.png",Colors Bangla 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/f9e1c145-b66f
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1720/output/index.mpd
+
+#EXTINF:-1 tvg-id="102" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",Ekattor HD 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-id="65" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963480044.png",HUM TV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-id="96" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",Independent TV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/dd5030d1-5cc8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1724/output/index.mpd
+
+#EXTINF:-1 tvg-id="99" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",NTV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-id="98" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy TV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-id="123" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735554654688.png",STAR GOLD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/ssuwd28er-ihda
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1729/output/index.mpd
+
+#EXTINF:-1 tvg-id="86" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740372275659.png",Star Jalsha HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/3c65b579-5825
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1713/output/index.mpd
+
+#EXTINF:-1 tvg-id="82" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735048740482.png",Star Movies HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/0f2ba568-bf5b
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1725/output/index.mpd
+
+#EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/120d3fdc-8b3e
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1708/output/index.mpd
+
+#EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/26ba8aaf-c2cf
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1710/output/index.mpd
+
+#EXTINF:-1 tvg-id="90" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045577141.png",Euro Sports HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/df67fc1a-01d1
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1712/output/index.mpd
+
+#EXTINF:-1 tvg-id="81" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740372108298.png",Zee Bangla Cinema 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/35ec6c98-c95e
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1728/output/index.mpd
+
+#EXTINF:-1 tvg-id="117" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739907006666.png",Sony Sports TEN 2 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/f352d057-1907
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1726/output/index.mpd
+
+#EXTINF:-1 tvg-id="124" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png",Sony Entertainment 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/368f3847-ed5e
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1718/output/index.mpd
+
+#EXTINF:-1 tvg-id="131" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png",ATN Bangla 
+ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-id="132" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",Channel I HD 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-id="139" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png",Ten Cricket 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/801c26dd-8035
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1727/output/index.mpd
+
+#EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
