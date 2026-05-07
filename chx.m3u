@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="Sports TV", DAZN 1 FHD
 https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd
-#EXTINF:-1, tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0pvnal1629913964.png" group-title="Sports TV", Sky Sports 1 FHD
+#EXTINF:-1, tvg-logo="https://images.seeklogo.com/logo-png/17/1/sky-sport-austria-logo-png_seeklogo-175063.png" group-title="Sports TV", Sky Sports 1 FHD
 https://d1yi40sjj0ca0v.cloudfront.net/TVD233/index.mpd
