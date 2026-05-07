@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.ibb.co/S47HYd7T/Lgoo.jpg",Channel 1
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium504/mono.m3u8
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.ibb.co/S47HYd7T/Lgoo.jpg",Channel 2
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium501/mono.m3u8
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.ibb.co/S47HYd7T/Lgoo.jpg",Channel 3
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium503/mono.m3u8
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.ibb.co/S47HYd7T/Lgoo.jpg",Channel 4
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium506/mono.m3u8
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.ibb.co/S47HYd7T/Lgoo.jpg",Channel 5
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium507/mono.m3u8
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.ibb.co/S47HYd7T/Lgoo.jpg",Channel 6
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium508/mono.m3u8
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.ibb.co/S47HYd7T/Lgoo.jpg",Channel 7
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium510/mono.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="Fancode-Football", DAZN 1 FHD
+https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd
