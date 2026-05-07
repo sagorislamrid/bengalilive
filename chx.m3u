@@ -3,3 +3,5 @@
 https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd
 #EXTINF:-1, tvg-logo="https://images.seeklogo.com/logo-png/17/1/sky-sport-austria-logo-png_seeklogo-175063.png" group-title="Sports TV", Sky Sports 1 FHD
 https://d1yi40sjj0ca0v.cloudfront.net/TVD233/index.mpd
+#EXTINF:-1, tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDKASIBC/1236-eurosport-1-hd.png" group-title="Sports TV", Euro Sport 1 FHD
+https://d1yi40sjj0ca0v.cloudfront.net/TVD011/index.mpd
